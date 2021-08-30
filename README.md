@@ -2,4 +2,4 @@
 
 This repository contains my slides on the Topic *SQL Injection* on which i spoke in the Lightning Talks.
 
-[Link](rajivharlalka.github.io/lightningtalk2021)
+[Link](https://rajivharlalka.github.io/LightningTalk2021/)
